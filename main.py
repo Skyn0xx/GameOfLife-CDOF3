@@ -63,6 +63,7 @@ rects = [[canvas.create_rectangle(j * size_cell, i * size_cell, (j + 1) * size_c
 canvas.bind("<Button-1>", toggle_cell)
 
 start_button = tk.Button(root, text="Start", command=start_game)
+start_button.config(width=30, height=5)
 start_button.pack()
 
 root.mainloop()
