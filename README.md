@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 If you want to execute the Bonus (ASCII Art.py), you have to run this command in your terminal
 
 
-```
+```bash
 pip install pyfiglet
 ```
 
