@@ -3,7 +3,7 @@
 from distutils.core import setup
 
 setup(
-    name='GameOfLife',
+    name='GameOfLife-CDOF3',
     version='1.0',
     author='Skyn0xx',
     license='MIT',
